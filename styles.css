@@ -1,0 +1,53 @@
+header{
+    border-style: solid;
+    }
+
+header > div{
+    border: solid 10px green;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    height: 150px;
+    width: 200px;
+    padding:;
+    float:left;
+}
+
+
+#color-1{
+    background-color: rgb(210, 230, 250);
+}
+#color-2{
+    background-color: rgb(190, 210, 230);
+}
+#color-3{
+        background-color: rgb(170, 190, 210);
+    }
+#color-4{
+        background-color: rgb(150, 170, 190);
+    }
+
+h1 {
+    text-align: center;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+
+}
+
+footer{
+
+    position: sticky;
+    bottom: 5%;
+}
+
+.button {
+    padding: 15px 32px;
+    background-color: rgb(130, 150, 170);
+}
+.button:hover{
+background-color: blue;
+}
